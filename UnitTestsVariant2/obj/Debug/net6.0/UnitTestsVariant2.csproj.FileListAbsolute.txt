@@ -1,0 +1,15 @@
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\bin\Debug\net6.0\UnitTestsVariant2.exe
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\bin\Debug\net6.0\UnitTestsVariant2.deps.json
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\bin\Debug\net6.0\UnitTestsVariant2.runtimeconfig.json
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\bin\Debug\net6.0\UnitTestsVariant2.dll
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\bin\Debug\net6.0\UnitTestsVariant2.pdb
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\obj\Debug\net6.0\UnitTestsVariant2.csproj.AssemblyReference.cache
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\obj\Debug\net6.0\UnitTestsVariant2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\obj\Debug\net6.0\UnitTestsVariant2.AssemblyInfoInputs.cache
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\obj\Debug\net6.0\UnitTestsVariant2.AssemblyInfo.cs
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\obj\Debug\net6.0\UnitTestsVariant2.csproj.CoreCompileInputs.cache
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\obj\Debug\net6.0\UnitTestsVariant2.dll
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\obj\Debug\net6.0\refint\UnitTestsVariant2.dll
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\obj\Debug\net6.0\UnitTestsVariant2.pdb
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\obj\Debug\net6.0\UnitTestsVariant2.genruntimeconfig.cache
+C:\Учёба\Поддержка и тестирование\UnitTestsVariant2\UnitTestsVariant2\obj\Debug\net6.0\ref\UnitTestsVariant2.dll
